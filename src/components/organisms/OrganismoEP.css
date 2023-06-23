@@ -1,0 +1,10 @@
+.organismo-conteiner{
+    width: 324px;
+    height: 93px;
+    flex-shrink: 0;
+}
+.contenedor-logo{
+    width: 15px;
+    height: 14px;
+    flex-shrink: 0;
+}

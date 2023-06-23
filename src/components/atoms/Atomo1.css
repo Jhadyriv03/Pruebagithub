@@ -1,0 +1,40 @@
+.barrainfr-conteiner{
+    width: 324px;
+    height: 93px;
+    flex-shrink: 0;
+}
+.plato-title {
+    display: flex;
+    width: 164px;
+    height: 27px;
+    flex-direction: column;
+    flex-shrink: 0;
+    
+    color: #000;
+    font-size: 14px;
+    font-family: 'Readex Pro';
+    font-style: normal;
+    font-weight: 300;
+}
+.plato-descripcion{
+    display: flex;
+    width: 289px;
+    height: 15px;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    color: rgba(0, 0, 0, 0.64);
+    font-size: 12px;
+    font-family: 'Readex Pro';
+}
+.plato-precio{
+    display: flex;
+    width: 65px;
+    height: 17px;
+    flex-direction: column;
+    flex-shrink: 0;
+
+    color: #000;
+    font-size: 14px;
+    font-family: 'Readex Pro';
+}

@@ -1,0 +1,40 @@
+.barra-categoria {
+    display: flex;
+    justify-content: center;
+}
+.barra-categoria-container {
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px 15px;
+    gap: 15px;
+
+    width: 202px;
+    height: 36px;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.barra-categoria-fsamp samp {
+
+    width: 24px;
+    height: 22px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+
+    letter-spacing: 1.59px;
+
+    color: #000000;
+
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
